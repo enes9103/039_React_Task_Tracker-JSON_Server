@@ -9,6 +9,11 @@ Project aims to create a Task Tracker App.
 
 - We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
+
+## Expected Outcome
+
+![Project 002 Snapshot](react-task-tracker.gif)
+
 ## Project Skeleton
 
 ```
@@ -36,10 +41,6 @@ SOLUTION
 ├── package.json
 └── yarn.lock
 ```
-
-## Expected Outcome
-
-![Project 002 Snapshot](react-task-tracker.gif)
 
 ## Objective
 
